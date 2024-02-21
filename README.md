@@ -8,7 +8,7 @@ I love coding!!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shivamkumar87148@gmail.com](mailto:shivamkumar87148@gmail.com)
-* 🧠  I'm learning DevOps and Web3 Technologies
+* 🧠  I'm learning Web Dev & DevOps 
 * 🤝  I'm open to collaborating on Fullstack Projects
 
 <a href="https://www.github.com/ShivamJha2436" target="_blank" rel="noreferrer"><img
