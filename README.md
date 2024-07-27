@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@shivamjha2436](https://medium.com/@shivamjha2436)
 
-- 💬 Ask me about **Full-Stack Development | DevOps | OpenSource**
+- 💬 Ask me about **Full-Stack Development | DevOps | Cloud Native Technologies |OpenSource **
 
 - 📫 How to reach me **shivamkumar87148@gmail.com**
 
