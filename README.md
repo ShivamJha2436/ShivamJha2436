@@ -5,9 +5,9 @@
 
 - 🤝 I’m looking for help with **DockShield**
 
-- 💬 Ask me about **Docker | Kubernetes | ebpf |**
+- 💬 Ask me about **Docker | Kubernetes | ebpf | Distributed Systems**
 
-- 📫 How to reach me **shivamkumar87148@gmail.com**
+- 📫 Reach me at **shivamkumar87148@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
