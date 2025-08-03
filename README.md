@@ -26,9 +26,7 @@ I'm a developer passionate about building scalable systems, developer tools, and
 - 🌐 Website: [shivamjha.dev](https://linktr.ee/shivamjha2436)
 - 💼 LinkedIn: [linkedin.com/in/yourhandle](https://www.linkedin.com/in/shivam-kumar-5732b2256/)
 - 🐦 Twitter: [twitter.com/yourhandle](https://x.com/shivamjha_2436)
-- 📬 Email: [yourname@email.com](mailto:shivamkumar87148@gmail.com)
-
-- 📫 How to reach me: [shivamjha.dev](https://linktr.ee/shivamjha2436) | [Twitter](https://x.com/shivamjha_2436) | [LinkedIn](https://www.linkedin.com/in/shivam-kumar-5732b2256/)
+- 📬 Email: [shivamkumar87148@gmail.com](mailto:shivamkumar87148@gmail.com)
 
 > “Code what matters. Automate what’s boring. Share what helps.”
 
