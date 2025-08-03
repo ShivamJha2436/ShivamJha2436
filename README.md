@@ -17,7 +17,7 @@ I'm a developer passionate about building scalable systems, developer tools, and
 
 **Web Development:** `Next.js` `TypeScript` `TailwindCSS` `HTML` `CSS`
 
-**DevOps & Cloud:** `Kubernetes` `Docker` `Prometheus` `Grafana` `Helm` `GitHub Actions`
+**DevOps & Cloud:** `Kubernetes` `Docker` `Prometheus` `Grafana` `Helm` `GitHub Actions` `AWS` `GCP`
 
 **Backend & Systems:** `Golang` `Rust` `PostgreSQL` `Redis` `gRPC` `NATS` `Linux` `Git`
 
