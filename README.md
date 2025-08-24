@@ -14,7 +14,7 @@ I'm a developer passionate about building scalable systems, developer tools, and
 
 ## 🛠️ Tech Stack
 
-**Web Development:** `Next.js` `TypeScript` `TailwindCSS` `HTML` `CSS`
+**Web Development:** `TailwindCSS` `HTML` `CSS` `Reactjs` `Next.js` `TypeScript`
 
 **DevOps & Cloud:** `Kubernetes` `Docker` `Terraform` `Prometheus` `Grafana` `Helm` `GitHub Actions` `AWS` `GCP`
 
