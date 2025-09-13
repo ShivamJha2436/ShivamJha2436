@@ -23,7 +23,7 @@ I'm a developer passionate about building scalable systems, developer tools, and
 ---
 ## 📫 Connect With Me
 
-- 🌐 Website: [shivamjha.dev](https://linktr.ee/shivamjha2436)
+- 🌐 Website: [shivamjha.in](https://shivamjha.in)
 - 💼 LinkedIn: [linkedin.com/in/shivamkumar](https://www.linkedin.com/in/shivam-kumar-5732b2256/)
 - 🐦 Twitter: [twitter.com/shivamjha2436](https://x.com/shivamjha_2436)
 - 📬 Email: [shivamkumar87148@gmail.com](mailto:shivamkumar87148@gmail.com)
