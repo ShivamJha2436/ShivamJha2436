@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamjha2436&label=Profile%20views&color=0e75b6&style=flat" alt="shivamjha2436" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamjha2436" alt="shivamjha2436" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shivamjha2436" target="blank"><img src="https://img.shields.io/twitter/follow/shivamjha2436?logo=twitter&style=for-the-badge" alt="shivamjha2436" /></a> </p>
 
 - 🔭 I’m currently working on [Kairo](https://github.com/ShivamJha2436/Kairo)
