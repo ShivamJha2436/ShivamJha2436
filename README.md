@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hello there! Shivam this side.
 🔭 I’m currently working on Kiroku<br>👯 I’m looking to collaborate on Kairo<br>🤝 I’m looking for help with Kairo<br>🌱 I’m currently learning MLOps and Distributed Systems<br>💬 Ask me about Backend Engineering and DevOps
 
 
