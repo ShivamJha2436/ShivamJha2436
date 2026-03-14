@@ -21,7 +21,9 @@ Portfolio: https://shivamjha.in
 ## Connect With Me
 
 X (Twitter): https://x.com/Hi_Shivam_
+
 LinkedIn: https://www.linkedin.com/in/shivamkj1/
+
 GitHub: https://github.com/ShivamJha2436
 
 ---
