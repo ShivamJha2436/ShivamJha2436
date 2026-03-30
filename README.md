@@ -1,79 +1,36 @@
 ![berserk-character-5120x2880-25701](https://github.com/user-attachments/assets/a1fe7bce-38ed-4568-a4a4-4cc4940ec23f)
 
 
-# Shivam Jha
+# Hey there! I'm Shivam Jha
 
-Backend Engineer · DevOps · Cloud Infrastructure
-
-I build systems that run in production — not just locally.
-
-My work focuses on reliability, observability, and automation across distributed systems.  
-I care about how software behaves under load, how it fails, and how it recovers.
-
+## Backend Engineer · DevOps · Cloud Infrastructure
 ---
 
-## Now
+I’m a backend engineer who spends most of his time working on systems, infrastructure, and the layers that sit behind applications.
+I’m interested in how software actually behaves in production — how it scales, where it breaks, and how to make it easier to operate. Most of what I build or study is around Kubernetes, distributed systems, and developer tooling. I prefer understanding things from first principles instead of relying on abstractions I don’t fully get.
 
-- Building **KubeHalo** — Kubernetes-native autoscaling using custom resources  
-- Going deep into **Kubernetes internals** (controllers, reconciliation loops)  
-- Studying **distributed systems fundamentals** through real implementations  
-- Writing less code, but better code  
-
----
-
-## Writing
-
-I write occasionally about things I implement and break.
-
-- (soon) Deep dive into Kubernetes controllers  
-- (soon) Lessons from implementing MapReduce in Go  
-- (soon) Observability patterns in small systems  
-
----
-
-## Reading
-
-Not tutorials — original sources.
-
-- *Designing Data-Intensive Applications* — Martin Kleppmann  
-- Google papers (MapReduce, GFS, Spanner)  
-- Kubernetes source code  
-- Production postmortems  
-
----
-
-## Systems I Like
-
-- Systems that are simple on the surface, complex underneath  
-- Tools that respect the developer’s time  
-- Opinionated software with clear trade-offs  
-- Infrastructure that is reproducible and observable  
-
----
 
 ## Tech
 
 **Languages**
-- Go (primary)
-- TypeScript / JavaScript
+- Go (primary), TypeScript/JavaScript, Python(Learning)
+
+**Frontend**
+- HTML(5), CSS, TailwindCSS, ReactJs, NextJs, Web Security, GraphQL
 
 **Backend**
-- REST APIs
-- Distributed systems basics
-- Data modeling
+- Golang, PostgreSQL, REST API's, Redis, Kafka
 
 **Infrastructure**
-- Kubernetes
-- Docker
-- Terraform
-- CI/CD systems
-- Linux
-
-**Observability**
-- Prometheus
-- Metrics-driven systems
+- Kubernetes, Docker, Terraform, CI/CD systems, Linux, Prometheus, Grafana, Datadog
 
 ---
+
+## Papers I Implemented
+
+### MapReduce (Google)
+- Tried implementing the original MapReduce paper in Go to understand how distributed computation actually works.
+Here's the repo - https://github.com/ShivamJha2436/go-mapreduce
 
 ## Work
 
@@ -98,17 +55,7 @@ https://github.com/ShivamJha2436/kiroku
 
 ---
 
-## Philosophy
-
-- Build things that **survive production**
-- Prefer **clarity over cleverness**
-- Understand the system before scaling it
-- Avoid abstraction until it hurts
-
----
-
 ## Links
-
 - Portfolio → https://shivamjha.in  
 - GitHub → https://github.com/ShivamJha2436  
 - LinkedIn → https://www.linkedin.com/in/shivamkj1/  
