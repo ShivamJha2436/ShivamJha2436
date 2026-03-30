@@ -1,4 +1,4 @@
-![banner](./assets/banner.png)![berserk-character-5120x2880-25701](https://github.com/user-attachments/assets/a1fe7bce-38ed-4568-a4a4-4cc4940ec23f)
+![berserk-character-5120x2880-25701](https://github.com/user-attachments/assets/a1fe7bce-38ed-4568-a4a4-4cc4940ec23f)
 
 
 # Shivam Jha
