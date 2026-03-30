@@ -1,71 +1,121 @@
-# Hi, I'm Shivam
+![banner](./assets/banner.png)![berserk-character-5120x2880-25701](https://github.com/user-attachments/assets/a1fe7bce-38ed-4568-a4a4-4cc4940ec23f)
 
-I focus on backend engineering, DevOps, and cloud infrastructure. I'm interested in how modern systems are designed, deployed, and operated — from application services to the infrastructure layers that support them.
 
-My work usually involves building and exploring tools around automation, infrastructure management, distributed systems, and developer tooling.
+# Shivam Jha
 
-## Currently exploring:
-- Kubernetes and cloud infrastructure
-- DevOps tooling and automation
-- Backend systems and APIs
-- System design and distributed systems
+Backend Engineer · DevOps · Cloud Infrastructure
 
----
+I build systems that run in production — not just locally.
 
-## Portfolio
-
-Portfolio: https://shivamjha.in
+My work focuses on reliability, observability, and automation across distributed systems.  
+I care about how software behaves under load, how it fails, and how it recovers.
 
 ---
 
-## Connect With Me
+## Now
 
-X (Twitter): https://x.com/Hi_Shivam_
-
-LinkedIn: https://www.linkedin.com/in/shivamkj1/
-
-GitHub: https://github.com/ShivamJha2436
+- Building **KubeHalo** — Kubernetes-native autoscaling using custom resources  
+- Going deep into **Kubernetes internals** (controllers, reconciliation loops)  
+- Studying **distributed systems fundamentals** through real implementations  
+- Writing less code, but better code  
 
 ---
 
-## Skills
+## Writing
 
-### Frontend
-- React
-- Next.js
-- TypeScript
-- TailwindCSS
+I write occasionally about things I implement and break.
 
-### Backend
-- Go (Golang)
-- Node.js
+- (soon) Deep dive into Kubernetes controllers  
+- (soon) Lessons from implementing MapReduce in Go  
+- (soon) Observability patterns in small systems  
+
+---
+
+## Reading
+
+Not tutorials — original sources.
+
+- *Designing Data-Intensive Applications* — Martin Kleppmann  
+- Google papers (MapReduce, GFS, Spanner)  
+- Kubernetes source code  
+- Production postmortems  
+
+---
+
+## Systems I Like
+
+- Systems that are simple on the surface, complex underneath  
+- Tools that respect the developer’s time  
+- Opinionated software with clear trade-offs  
+- Infrastructure that is reproducible and observable  
+
+---
+
+## Tech
+
+**Languages**
+- Go (primary)
+- TypeScript / JavaScript
+
+**Backend**
 - REST APIs
-- Database design
+- Distributed systems basics
+- Data modeling
 
-### DevOps / Cloud
-- Docker
+**Infrastructure**
 - Kubernetes
+- Docker
 - Terraform
-- CI/CD pipelines
+- CI/CD systems
 - Linux
-- Prometheus / Monitoring
+
+**Observability**
+- Prometheus
+- Metrics-driven systems
 
 ---
 
-## Projects
+## Work
 
 ### KubeHalo
-Kubernetes cluster monitoring and auto-scaling system using custom resources and metrics.
+Kubernetes-native monitoring and autoscaling system.
 
-Repository: https://github.com/ShivamJha2436/kubehalo
+- Custom Resource Definitions (CRDs)
+- Controller-based reconciliation loop
+- Metrics-driven scaling decisions
 
-### Kiroku
-A developer-focused project for structured logging and workflow tracking.
-
-Repository: https://github.com/ShivamJha2436/kiroku
+https://github.com/ShivamJha2436/kubehalo
 
 ---
 
-## What I'm Working On
+### Kiroku
+Structured logging and workflow tracking for developers.
 
-Right now I'm focusing on building deeper expertise in DevOps and cloud infrastructure while continuing to ship projects and write about what I learn.
+- Focus on execution traceability
+- Debuggable system design
+
+https://github.com/ShivamJha2436/kiroku
+
+---
+
+## Philosophy
+
+- Build things that **survive production**
+- Prefer **clarity over cleverness**
+- Understand the system before scaling it
+- Avoid abstraction until it hurts
+
+---
+
+## Links
+
+- Portfolio → https://shivamjha.in  
+- GitHub → https://github.com/ShivamJha2436  
+- LinkedIn → https://www.linkedin.com/in/shivamkj1/  
+- X → https://x.com/Hi_Shivam_  
+
+---
+
+## Contact
+
+If you're working on backend systems, infra, or something interesting in distributed systems — feel free to reach out.
